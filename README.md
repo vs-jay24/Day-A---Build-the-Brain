@@ -39,3 +39,8 @@ Repeat this structure across the week:
 This runs parallel with Day B repository.
 
 ---
+## 🎯 End Goal of This Repo
+- Write strong SQL  
+- Build Python confidence  
+- Understand databases deeply  
+- Prepare for real data engineering pipelines  
