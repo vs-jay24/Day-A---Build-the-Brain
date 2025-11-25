@@ -1,3 +1,4 @@
+# START DATE 11 - 25 - 25
 # Day-A---Build-the-Brain
 SQL + Python fundamentals + Database theory + OLTP → OLAP understanding.
 
